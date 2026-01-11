@@ -11,7 +11,7 @@ function Slider() {
             </div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src="http://www.wallpaperup.com/uploads/wallpapers/2015/05/24/697346/a47fd30b160326dfb5508a07c0afd0e1.jpg" className="d-block w-100" alt="..."/>
+                    <img src="https://img.freepik.com/free-photo/fashion-shoes-sneakers_1203-7529.jpg" className="d-block w-100" alt="..."/>
                 </div>
                 <div className="carousel-item">
                     <img src="https://i.pinimg.com/originals/34/18/47/341847be8ab2ccf362a9e64f9e49853f.jpg" className="d-block w-100" alt="..."/>
